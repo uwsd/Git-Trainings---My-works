@@ -5,6 +5,4 @@
 
 [![Git](https://img.shields.io/badge/Git-2.28.0.windows.1.pre-blue)]()
 
-## Deployments notes
-
-## Staging notes
+## Some new stuff in the README
